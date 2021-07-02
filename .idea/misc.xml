@@ -10,10 +10,16 @@
       <list>
         <option value="$PROJECT_DIR$/nacos-config-sample/pom.xml" />
         <option value="$PROJECT_DIR$/nacos-discovery-provider-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-discovery-consumer-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-provider-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-sample-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/sentinel-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/sentinel-sample/dubbo-provider/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="8" project-jdk-type="JavaSDK" />
   <component name="SuppressionsComponent">
     <option name="suppComments" value="[]" />
   </component>

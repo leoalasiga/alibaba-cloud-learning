@@ -3,8 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/alibaba-cloud-learning.iml" filepath="$PROJECT_DIR$/.idea/alibaba-cloud-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-sample/demo-gateway/demo-gateway.iml" filepath="$PROJECT_DIR$/sentinel-sample/demo-gateway/demo-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-consumer-sample/dubbo-consumer-sample.iml" filepath="$PROJECT_DIR$/dubbo-consumer-sample/dubbo-consumer-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-sample/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/sentinel-sample/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-provider-sample/dubbo-provider-sample.iml" filepath="$PROJECT_DIR$/dubbo-provider-sample/dubbo-provider-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-sample-api/dubbo-sample-api.iml" filepath="$PROJECT_DIR$/dubbo-sample-api/dubbo-sample-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/nacos-config-sample/nacos-config-sample.iml" filepath="$PROJECT_DIR$/nacos-config-sample/nacos-config-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-discovery-consumer-sample/nacos-discovery-consumer-sample.iml" filepath="$PROJECT_DIR$/nacos-discovery-consumer-sample/nacos-discovery-consumer-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/nacos-discovery-provider-sample/nacos-discovery-provider-sample.iml" filepath="$PROJECT_DIR$/nacos-discovery-provider-sample/nacos-discovery-provider-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-sample/sentinel-sample.iml" filepath="$PROJECT_DIR$/sentinel-sample/sentinel-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-sample/service-api/service-api.iml" filepath="$PROJECT_DIR$/sentinel-sample/service-api/service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-sample/web-api-demo/web-api-demo.iml" filepath="$PROJECT_DIR$/sentinel-sample/web-api-demo/web-api-demo.iml" />
     </modules>
   </component>
 </project>
